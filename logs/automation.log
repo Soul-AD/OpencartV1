@@ -1,0 +1,445 @@
+08:37:05.246 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:37:05.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:37:05.256 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+08:37:05.263 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+08:37:05.265 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:37:05.265 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:37:05.266 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:37:05.266 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:37:05.266 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:37:05.266 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:37:05.267 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:37:05.267 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:37:05.268 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:37:05.268 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:37:05.269 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:37:05.270 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:37:05.270 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:37:05.270 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:37:05.271 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:37:05.271 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:37:05.273 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:37:05.273 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:37:05.273 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:37:05.273 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:37:05.281 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\AppData\Local\Temp\testng-eclipse--1730065613\testng-customsuite.xml
+
+08:37:05.297 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+08:37:05.503 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@13f17eb4: 79 ms
+08:37:05.520 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@698122b2: 16 ms
+08:37:05.536 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3f0846c6: 16 ms
+08:37:05.545 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@320de594: 9 ms
+08:37:05.552 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@686449f9: 7 ms
+08:37:05.553 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@665df3c6: 1 ms
+08:37:42.706 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+08:37:42.938 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+08:37:48.794 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+08:37:48.894 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+08:37:49.635 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+08:37:49.637 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+08:37:51.017 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+08:37:51.047 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+08:37:51.047 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+08:38:10.135 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+08:38:10.385 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+08:38:14.826 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+08:38:14.919 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+08:38:15.600 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+08:38:15.602 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+08:38:16.980 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+08:38:17.014 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+08:38:17.014 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+08:39:52.002 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKSHAY~1.DUP\AppData\Local\Temp\testng-eclipse--540175183\testng-customsuite.xml"
+08:39:52.224 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:39:52.226 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:39:52.228 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:39:52.228 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:39:52.229 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:39:52.229 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:39:52.229 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:39:52.229 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:39:52.234 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+08:39:52.241 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+08:39:52.242 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:39:52.242 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:39:52.243 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:39:52.243 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:39:52.243 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:39:52.243 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:39:52.245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:39:52.246 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:39:52.246 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:39:52.246 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:39:52.248 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:39:52.248 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:39:52.248 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:39:52.248 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:39:52.249 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:39:52.249 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:39:52.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:39:52.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:39:52.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:39:52.250 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:39:52.257 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\AppData\Local\Temp\testng-eclipse--540175183\testng-customsuite.xml
+
+08:39:52.271 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+08:39:52.454 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@43aaf813: 75 ms
+08:39:52.473 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@55342f40: 18 ms
+08:39:52.486 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@17a87e37: 13 ms
+08:39:52.497 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@62452cc9: 10 ms
+08:39:52.506 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5e81e5ac: 9 ms
+08:39:52.506 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4189d70b: 0 ms
+08:40:18.836 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+08:40:19.088 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+08:40:22.787 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+08:40:24.251 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+08:41:06.930 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\test-output\testng-failed.xml"
+08:41:07.166 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\test-output\testng-failed.xml
+
+09:16:00.712 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+09:16:00.965 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+09:16:05.573 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+09:16:05.674 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+09:16:06.221 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+09:16:06.223 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+09:16:07.588 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+09:16:07.617 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+09:16:07.618 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+09:17:04.812 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+09:17:05.063 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+09:17:10.075 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+09:17:10.173 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+09:17:10.716 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+09:17:10.718 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+09:17:11.989 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+09:17:12.016 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+09:17:12.016 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+10:16:31.020 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKSHAY~1.DUP\AppData\Local\Temp\testng-eclipse--815999703\testng-customsuite.xml"
+10:16:31.256 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+10:16:31.262 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+10:16:31.263 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:16:31.264 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:16:31.264 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:16:31.264 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:16:31.264 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:16:31.264 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:16:31.270 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+10:16:31.278 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+10:16:31.280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:16:31.280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:16:31.281 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:16:31.281 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:16:31.281 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:16:31.281 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:16:31.282 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:16:31.282 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:16:31.282 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:16:31.282 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:16:31.284 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:16:31.284 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:16:31.284 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:16:31.284 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:16:31.286 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:16:31.286 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:16:31.287 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:16:31.287 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:16:31.287 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:16:31.287 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:16:31.294 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\AppData\Local\Temp\testng-eclipse--815999703\testng-customsuite.xml
+
+10:16:31.308 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+10:16:31.519 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@43aaf813: 96 ms
+10:16:31.541 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@55342f40: 22 ms
+10:16:31.554 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@17a87e37: 13 ms
+10:16:31.566 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@62452cc9: 12 ms
+10:16:31.576 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5e81e5ac: 10 ms
+10:16:31.576 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4189d70b: 0 ms
+12:47:05.537 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+12:47:06.034 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+12:47:10.902 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+12:47:11.074 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+12:47:11.663 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+12:47:11.666 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+12:47:13.074 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+12:47:13.129 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+12:47:13.129 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+15:09:21.762 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+15:09:22.112 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+15:09:27.005 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+15:09:27.093 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+15:09:27.677 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+15:09:27.680 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:09:28.914 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:09:28.944 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+15:09:28.945 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+15:15:47.137 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+15:15:47.366 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+15:18:35.880 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+15:18:36.122 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+15:19:19.692 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+15:19:19.925 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+15:20:12.481 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+15:20:12.730 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+15:25:07.787 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+15:25:08.047 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+11:06:47.416 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\crossbrowsertesting.xml"
+11:06:47.725 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\crossbrowsertesting.xml
+
+11:06:48.083 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+11:08:31.386 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+11:08:31.636 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+11:09:05.299 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\crossbrowsertesting.xml"
+11:09:05.567 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\crossbrowsertesting.xml
+
+11:09:05.861 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+11:12:22.370 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\crossbrowsertesting.xml"
+11:12:22.616 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\crossbrowsertesting.xml
+
+11:12:28.357 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+11:12:29.151 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+11:12:29.170 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+11:12:29.850 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+11:14:41.356 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+11:14:41.610 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+11:14:44.408 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+11:14:45.651 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+11:20:37.047 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKSHAY~1.DUP\AppData\Local\Temp\testng-eclipse-270873046\testng-customsuite.xml"
+11:20:37.253 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+11:20:37.255 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:37.256 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:37.256 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:37.257 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:37.257 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:37.258 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:37.258 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:37.262 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+11:20:37.270 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+11:20:37.271 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:37.271 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:37.272 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:37.272 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:37.272 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:37.272 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:37.274 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:37.274 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:37.274 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:37.275 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:37.277 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:37.277 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:37.277 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:37.277 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:37.278 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+11:20:37.278 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:37.280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:37.280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:37.280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:20:37.280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:20:37.288 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\AppData\Local\Temp\testng-eclipse-270873046\testng-customsuite.xml
+
+11:20:37.302 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+11:20:37.489 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@609640d5: 79 ms
+11:20:37.508 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@64dafeed: 19 ms
+11:20:37.517 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@636e8cc: 8 ms
+11:20:37.523 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4c37b5b: 6 ms
+11:20:37.529 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3a62c01e: 6 ms
+11:20:37.530 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7a8fa663: 0 ms
+11:21:19.177 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+11:21:19.431 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+11:21:22.059 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+11:21:22.168 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+11:21:22.485 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+11:21:22.488 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+11:21:23.473 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+11:21:23.525 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+11:21:23.525 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+11:23:18.003 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\crossbrowsertesting.xml"
+11:23:18.257 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\crossbrowsertesting.xml
+
+11:23:20.822 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+11:23:24.458 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+11:23:25.641 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+11:23:33.075 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+11:26:19.377 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+11:26:19.615 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+11:26:23.855 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+11:26:23.955 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+11:26:24.273 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+11:26:24.275 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+11:26:25.277 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+11:26:25.325 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+11:26:25.325 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+11:41:41.936 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+11:41:42.218 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+11:41:47.675 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+11:41:47.784 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+11:41:48.141 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+11:41:48.144 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+11:41:49.253 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+11:41:49.288 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+11:41:49.289 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+11:42:25.561 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+11:42:25.803 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+11:42:29.960 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+11:46:24.462 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\grouping.xml"
+11:46:24.722 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\grouping.xml
+
+11:46:28.838 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+11:46:28.950 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+11:46:29.266 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+11:46:29.267 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+11:46:30.292 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+11:46:30.325 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+11:46:30.325 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+11:47:03.861 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\grouping.xml"
+11:47:04.112 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\grouping.xml
+
+11:47:06.685 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+11:47:06.992 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+11:47:07.307 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+11:47:07.309 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+11:47:08.298 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+11:47:08.330 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+11:47:08.330 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+12:05:58.055 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+12:05:58.324 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+12:06:01.102 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+12:10:55.093 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+12:10:55.431 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+12:10:58.577 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+12:13:36.151 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+12:13:36.387 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+12:13:40.514 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+12:32:00.403 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\grouping.xml"
+12:32:00.674 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\grouping.xml
+
+12:32:07.466 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+12:32:07.728 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+12:32:08.067 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+12:32:08.071 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+12:32:08.535 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+12:32:09.092 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+12:32:09.092 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+12:42:27.551 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+12:42:27.816 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+12:42:32.366 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+12:42:33.586 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+12:43:06.322 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+12:43:06.586 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+12:43:10.830 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+13:16:23.416 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+13:16:23.679 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+13:16:28.164 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+13:18:07.695 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+13:18:07.961 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+13:18:11.959 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+14:07:13.241 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+14:07:13.520 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+14:07:19.508 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+14:17:09.283 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+14:17:09.559 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+14:17:14.045 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+14:17:14.150 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+14:17:14.518 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+14:17:14.523 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+14:17:15.702 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+14:17:15.750 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+14:17:15.750 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+14:18:43.539 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+14:18:43.806 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+14:18:48.642 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+14:18:48.756 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+14:18:49.319 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+14:18:49.321 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+14:18:50.529 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+14:18:50.571 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+14:18:50.571 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+20:01:02.844 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+20:01:03.457 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+20:01:11.287 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+20:01:11.542 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+20:01:12.644 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+20:01:12.657 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:01:15.110 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:01:15.200 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+20:01:15.201 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+20:21:02.997 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+20:21:12.738 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+20:22:14.685 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+20:22:20.501 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+20:22:22.623 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+21:58:27.733 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+21:58:34.655 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+21:58:37.266 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+22:01:42.678 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+22:01:49.465 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+22:01:52.026 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
