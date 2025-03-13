@@ -28,7 +28,6 @@ public class ExtentReportManager implements ITestListener
 	public ExtentTest test;		//creating test case entries in report and update status of test methods
 	
 	String repName;
-	private WebDriver driver;
 	
 	public void onStart(ITestContext testContext) {
 		
@@ -115,7 +114,7 @@ public class ExtentReportManager implements ITestListener
 
 		extent.flush();		//add all information to report
 		
-		String pathOfExtentReport = System.getProperty("user.dir"+ "\\reports\\" +repName);
+		String pathOfExtentReport = System.getProperty("user.dir")+ "\\reports\\" +repName;
 		File extentReport = new File(pathOfExtentReport);
 		
 		try

@@ -34,7 +34,7 @@ public class BaseClass {
 	
 	@BeforeClass(groups= {"Sanity","Regression","Master"})
 	@Parameters({"os","browser"})
-	public void setup(String os,String br) throws IOException
+	public void setup(String os, String br) throws IOException
 	{
 		//loading config.properties file
 		FileReader file=new FileReader("./src//test//resources//config.properties");
@@ -138,7 +138,7 @@ public class BaseClass {
 		TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
 		File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
 		
-		String targetFilePath = System.getProperty("user.dir"+ "\\screenshots\\" +tname +"_"+timeStamp +".png");
+		String targetFilePath = System.getProperty("user.dir")+"\\screenshots\\" +tname + "_" +timeStamp +".png";
 		File targetFile = new File(targetFilePath);
 		
 		sourceFile.renameTo(targetFile);

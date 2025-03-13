@@ -443,3 +443,16 @@
 22:01:42.678 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
 22:01:49.465 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
 22:01:52.026 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+09:18:01.836 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml"
+09:18:02.385 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\akshay.dupate\Downloads\AK Automation Tools\eclipse-java\eclipse-workspace\SeleniumWebDriver\OpencartV1\master.xml
+
+09:18:07.313 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+09:18:07.768 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link...
+09:18:08.560 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register link...
+09:18:08.565 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+09:18:10.432 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+09:18:10.506 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+09:18:10.506 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+09:18:15.752 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+09:18:18.049 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
